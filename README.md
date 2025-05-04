@@ -23,7 +23,7 @@ I believe in lifelong learning and am always on the lookout for new challenges t
 ### 📚 Currently Learning
 
 - **Next.js & [Framer Motion](https://motion.dev/)** to enhance my frontend skills
-- **[React Native](https://reactnative.dev/), [React Native Reanimated](https://docs.swmansion.com/) & [Native Modules](https://reactnative.dev/docs/turbo-native-modules-introduction)** to expanding of hybrid mobile apps development.
+- **[React Native](https://reactnative.dev/), [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) & [Native Modules](https://reactnative.dev/docs/turbo-native-modules-introduction)** to expanding of hybrid mobile apps development.
 - **Advanced Laravel** to enhancing my backend API development skills.
 - Deepening my understanding of OOP concepts with Typescript.
 
