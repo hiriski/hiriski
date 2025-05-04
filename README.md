@@ -38,7 +38,7 @@ I believe in lifelong learning and am always on the lookout for new challenges t
 
 I always open to connecting with fellow tech enthusiasts, whether it's for a project, sharing insights, or just a chat over coffee about the latest tech trends. Feel free to reach out!
 
-- Email: **[hi@riski.me](hi@riski.me)** **|** **[hiriski@outlook.com](hiriski@outlook.com)**
+- Email: **[hi@riski.me](mailto:hi@riski.me)** **|** **[hiriski@outlook.com](mailto:hiriski@outlook.com)**
 - Instagram: **[zrkii](https://www.instagram.com/zrkii/)** (I'm rarely active on social media)
 
 <br />
