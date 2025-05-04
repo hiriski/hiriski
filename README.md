@@ -34,7 +34,12 @@ I believe in lifelong learning and am always on the lookout for new challenges t
   </picture>
 </p>
 
-### 👋 How to react me
+### 😀 Fun fact
+- Born in the coastal village of palabuhanratu beach.
+- When I had no ideas I played PUBG Mobile with my Vietnamese friends to learn Tiếng Việt.
+- I'm a big fan of [Đen Vâu](https://www.youtube.com/channel/UCWu91J5KWEj1bQhCBuGeJxw)
+
+### 👋 How to reach me
 
 I always open to connecting with fellow tech enthusiasts, whether it's for a project, sharing insights, or just a chat over coffee about the latest tech trends. Feel free to reach out!
 
