@@ -8,13 +8,14 @@
 
 ### Hi there, I'm Riski! 👋
 
-I'm a Full Stack Developer with 5+ years of experience passionate about building fast, responsive, and user-friendly web applications. With expertise in [ReactJS](https://react.dev/), [Next.JS](https://nextjs.org/), [Vue.JS](https://vuejs.org/), [Laravel](https://laravel.com/), and [Typescript](https://www.typescriptlang.org/), I specialize in crafting high-performance interfaces that enhance user experience and business growth. I currently work as a Senior Front-End Developer at a software company in Bandung, West Java, Indonesia.
+I’m a Fullstack Developer with over 5 years of experience, passionate about building fast, responsive, and user-friendly web applications. With expertise in [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [TypeScript](https://www.typescriptlang.org/), I specialize in crafting high-performance interfaces that enhance user experience and drive business growth.
 
 ### 👨🏻‍💻 What i do
+I love turning ideas into real stuff. My journey in web and mobile app development—especially with [React Native](https://reactnative.dev/)—has taken me through all kinds of projects, from simple landing pages (SPA) to more complex web apps. Whether I’m working solo or with a team, I really enjoy building apps that are interactive and user-friendly. Of course, I always try to keep the code clean, efficient, and easy to maintain.
 
-I love turning ideas into reality. My journey in web and mobile app development with [React Native](https://reactnative.dev/) has led me to work on a variety of projects, from simple landing page application (SPA) to complex web applications. Whether I'm coding solo or collaborating with a team, I enjoy building interactive and user-friendly applications of course, by applying the concept of white clean, efficient, and maintainable code. Here you'll find a collection some of [my works](https://github.com/hiriski?tab=repositories), contributions, and maybe a few random thoughts😄, I hope to make a big footprint.
+Here you'll find a collection some of [my works](https://github.com/hiriski?tab=repositories), contributions, and maybe a few random thoughts😄, I hope to make a big footprint.
 
-...oh there is one more thing, as a role as Front-end developer I also aware about design I like to create clean and modern graphic designs with Adobe Photoshop & Corel Draw, & Figma just to complete the visual design in my apps and github profile.
+Oh, and one more thing—as a Front-end Developer, I’m also pretty into design. I enjoy creating clean and modern visuals using Adobe Photoshop, CorelDRAW, and Figma—just to add that extra touch to my apps and GitHub profile.
 
 ### 💪 Continuous learning
 
@@ -35,9 +36,10 @@ I believe in lifelong learning and am always on the lookout for new challenges t
 </p>
 
 ### 😀 Fun fact
-- Born in the coastal village of palabuhanratu beach.
-- When I had no ideas I played PUBG Mobile with my Vietnamese friends to learn Tiếng Việt.
-- I'm a big fan of [Đen Vâu](https://www.youtube.com/channel/UCWu91J5KWEj1bQhCBuGeJxw)
+- Born in a chill coastal village near Palabuhanratu Beach.
+- When my brain’s outta ideas, I just hop on PUBG Mobile with my Vietnamese homies—good excuse to pick up some Tiếng Việt lol.
+- I'm a big fan of [Đen Vâu](https://www.youtube.com/channel/UCWu91J5KWEj1bQhCBuGeJxw), by the way. Dude’s a legend.
+
 
 ### 👋 How to reach me
 
@@ -50,7 +52,7 @@ I always open to connecting with fellow tech enthusiasts, whether it's for a pro
 
 #### © Source and credits
 
-**Fonts Used in the banner are** [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) and [Jost](https://fonts.google.com/specimen/Jost) you can find on Google Fonts API
+**Fonts used in the banner are** [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) and [Jost](https://fonts.google.com/specimen/Jost) you can find on Google Fonts API
 
 **Avatar** using Apple avatar emoji in Macbook
 
