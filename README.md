@@ -8,7 +8,7 @@
 
 ### Hi there, I'm Riski! 👋
 
-I’m a Fullstack Developer with over 5 years of experience, passionate about building fast, responsive, and user-friendly web applications. With expertise in [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [TypeScript](https://www.typescriptlang.org/), I specialize in crafting high-performance interfaces that enhance user experience and drive business growth.
+I’m a Front-End Developer with over 5 years of experience, passionate about building fast, responsive, and user-friendly web applications. With expertise in [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [TypeScript](https://www.typescriptlang.org/), I specialize in crafting high-performance interfaces that enhance user experience and drive business growth.
 
 ### 👨🏻‍💻 What i do
 I love turning ideas into real stuff. My journey in web and mobile app development—especially with [React Native](https://reactnative.dev/)—has taken me through all kinds of projects, from simple landing pages (SPA) to more complex web apps. Whether I’m working solo or with a team, I really enjoy building apps that are interactive and user-friendly. Of course, I always try to keep the code clean, efficient, and easy to maintain.
