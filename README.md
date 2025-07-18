@@ -1,4 +1,3 @@
-<!-- header banner -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./banners/banner-header-dark.png">
@@ -6,27 +5,30 @@
   </picture>
 </p>
 
-### Hi there, I'm Riski! 👋
+### Hello, I'm Rizki Muhamad 👋
 
-I’m a Full Stack Developer with over 5 years of experience, passionate about building fast, responsive, and user-friendly web applications. With expertise in [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), [Node.JS](https://nodejs.org/) and [TypeScript](https://www.typescriptlang.org/), I specialize in crafting high-performance interfaces that enhance user experience snd drive business growth.
+I am a Full Stack Developer with over five years of experience specializing in building high-performance, responsive, and user-centric web applications. My expertise lies in leveraging modern technologies like **[React.js](https://react.dev/)**, **[Next.js](https://nextjs.org/)**, **[Vue.js](https://vuejs.org/)**, **[Laravel](https://laravel.com/)**, **[Node.js](https://nodejs.org/)**, and **[TypeScript](https://www.typescriptlang.org/)** to craft exceptional digital experiences that drive business growth.
 
-### 👨🏻‍💻 What i do
-I love turning ideas into real stuff. My journey in web and mobile app development—especially with [React Native](https://reactnative.dev/)—has taken me through all kinds of projects, from simple landing pages (SPA) to more complex web apps. Whether I’m working solo or with a team, I really enjoy building apps that are interactive and user-friendly. Of course, I always try to keep the code clean, efficient, and easy to maintain.
+---
 
-Here you'll find a collection some of [my works](https://github.com/hiriski?tab=repositories), contributions, and maybe a few random thoughts😄, I hope to make a big footprint.
+### 👨🏻‍💻 My Approach to Development
 
-Oh, and one more thing—as a Front-end Developer, I’m also pretty into design. I enjoy creating clean and modern visuals using Adobe Photoshop, CorelDRAW, and Figma—just to add that extra touch to my apps and GitHub profile.
+I thrive on transforming complex ideas into functional and elegant digital solutions. My journey in web and mobile development—including **[React Native](https://reactnative.dev/)**—has equipped me with a versatile skill set applicable to projects ranging from sleek single-page applications (SPAs) to robust, large-scale web platforms.
 
-### 💪 Continuous learning
+I am committed to writing clean, efficient, and maintainable code, whether working independently or as part of a collaborative team. Here you'll find a collection of [my work](https://github.com/hiriski?tab=repositories), contributions, and thoughts.
 
-I believe in lifelong learning and am always on the lookout for new challenges to solve and technologies to master. I'm particularly interested in Native Mobile App Development, Custom ROMs and Kernel Development.
+Beyond the code, I have a keen eye for design and am proficient with Figma, Adobe Photoshop, and CorelDRAW. This allows me to not only engineer functionality but also to ensure a polished, intuitive, and visually appealing final product.
 
-### 📚 Currently Learning
+### 💪 Continuous Growth
 
-- **Next.js & [Framer Motion](https://motion.dev/)** to enhance my frontend skills
-- **[React Native](https://reactnative.dev/), [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) & [Native Modules](https://reactnative.dev/docs/turbo-native-modules-introduction)** to expanding of hybrid mobile apps development.
-- **Advanced Laravel** to enhancing my backend API development skills.
-- Deepening my understanding of OOP concepts with Typescript.
+I am a firm believer in lifelong learning and continuously seek new challenges and technologies to master. My current areas of interest and exploration include Native Mobile App Development, Custom ROMs, and Kernel Development.
+
+### 📚 Currently Sharpening My Skills
+
+- **Next.js & [Framer Motion](https://motion.dev/):** Mastering advanced animations and state management to create more dynamic user interfaces.
+- **React Native Ecosystem:** Deepening my expertise in cross-platform development with **[React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)** and **[Native Modules](https://reactnative.dev/docs/turbo-native-modules-introduction)**.
+- **Advanced Laravel:** Architecting more robust, scalable, and secure backend APIs.
+- **TypeScript & OOP:** Applying advanced Object-Oriented Programming principles to build modular and scalable applications.
 
 <p align="center">
   <picture>
@@ -35,26 +37,26 @@ I believe in lifelong learning and am always on the lookout for new challenges t
   </picture>
 </p>
 
-### 😀 Fun fact
-- Born in a chill coastal village near Palabuhanratu Beach.
-- When my brain’s outta ideas, I just hop on PUBG Mobile with my Vietnamese homies—good excuse to pick up some Tiếng Việt lol.
-- I'm a big fan of [Đen Vâu](https://www.youtube.com/channel/UCWu91J5KWEj1bQhCBuGeJxw), by the way. Dude’s a legend.
+### 😀 A Little About Me
 
+- I was born and raised in a serene coastal village near Palabuhanratu Beach.
+- When I need a creative reset, I often play PUBG Mobile with friends from Vietnam, which has been a fun and unexpected way to learn some basic Vietnamese (Tiếng Việt).
+- I'm a huge admirer of the artist [Đen Vâu](https://www.youtube.com/channel/UCWu91J5KWEj1bQhCBuGeJxw).
 
-### 👋 How to reach me
+### 👋 Let's Connect
 
-I always open to connecting with fellow tech enthusiasts, whether it's for a project, sharing insights, or just a chat over coffee about the latest tech trends. Feel free to reach out!
+I'm always open to connecting with fellow developers, designers, and tech enthusiasts. Whether you have a project in mind, want to share ideas, or just want to talk tech, feel free to reach out.
 
-- Email: **[hi@riski.me](mailto:hi@riski.me)** **|** **[hiriski@outlook.com](mailto:hiriski@outlook.com)**
-- Instagram: **[zrkii](https://www.instagram.com/zrkii/)** (I'm rarely active on social media)
+- **Email:** **[hi@riski.me](mailto:hi@riski.me)** **|** **[hiriski@outlook.com](mailto:hiriski@outlook.com)**
+- **Instagram:** **[zrkii](https://www.instagram.com/zrkii/)** (I'm not very active on social media, but I'm here!)
 
 <br />
 
 #### © Source and credits
 
-**Fonts used in the banner are** [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) and [Jost](https://fonts.google.com/specimen/Jost) you can find on Google Fonts API
+**Fonts used in the banner are** [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) and [Jost](https://fonts.google.com/specimen/Jost) you can find on Google Fonts API.
 
-**Avatar** using Apple avatar emoji in Macbook
+**Avatar** using Apple Memoji.
 
 <br />
 
